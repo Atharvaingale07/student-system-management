@@ -1,0 +1,19 @@
+
+# Environment variables and secrets
+.env
+.env.local
+
+# Local database backups
+*.sql.zip
+*.sql.gz
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
